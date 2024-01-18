@@ -1,0 +1,299 @@
+[
+  {
+    "toy_num": "R0916",
+    "col_num": "001",
+    "model": "'67 Shelby GT500",
+    "series": "2010 New Models",
+    "series_num": "1/44",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/67_Shelby_GT500_-_2010_NM.jpg/revision/latest?cb=20090913235854",
+    "year": "2010"
+  },
+  {
+    "toy_num": "R0917",
+    "col_num": "002",
+    "model": "Tooligan",
+    "series": "2010 New Models",
+    "series_num": "2/44",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Tooligan_-_10_NM.jpg/revision/latest?cb=20090930040830",
+    "year": "2010"
+  },
+  {
+    "toy_num": "V3940",
+    "col_num": "023",
+    "model": "Lamborghini Reventón Roadster",
+    "series": "2010 New Models",
+    "series_num": "23/44",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/7/74/REVENT%C3%93N_ROADSTER_A.jpg/revision/latest?cb=20100908184917",
+    "year": "2010"
+  },
+  {
+    "toy_num": "T9671",
+    "col_num": "001",
+    "model": "Danicar",
+    "series": "2011 New Models",
+    "series_num": "1/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Danicar_Yellow.JPG/revision/latest?cb=20101004101907",
+    "year": "2011"
+  },
+  {
+    "toy_num": "T9672",
+    "col_num": "002",
+    "model": "'72 Ford Gran Torino Sport",
+    "series": "2011 New Models",
+    "series_num": "2/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/72GranTorino_Green.JPG/revision/latest?cb=20101004101906",
+    "year": "2011"
+  },
+  {
+    "toy_num": "T9673",
+    "col_num": "003",
+    "model": "'10 Ford Shelby GT-500 Super Snake",
+    "series": "2011 New Models",
+    "series_num": "3/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/9/93/GT_500_SUPER_SNAKE_2011_A.jpg/revision/latest?cb=20101030235234",
+    "year": "2011"
+  },
+  {
+    "toy_num": "V5293",
+    "col_num": "005",
+    "model": "BMW M3 GT2",
+    "series": "2012 New Models",
+    "series_num": "5/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/Bmw_m3_gt2_2012_white.png/revision/latest?cb=20111201022942",
+    "year": "2012"
+  },
+  {
+    "toy_num": "V5290",
+    "col_num": "002",
+    "model": "'64 Chevy Chevelle SS",
+    "series": "2012 New Models",
+    "series_num": "2/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/64_chevy_chevelle_ss_2012_red.png/revision/latest?cb=20111202023553",
+    "year": "2012"
+  },
+  {
+    "toy_num": "V5291",
+    "col_num": "003",
+    "model": "Imparable",
+    "series": "2012 New Models",
+    "series_num": "3/50​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/ImparableFEHOTWHEELS.jpg/revision/latest?cb=20111230154922",
+    "year": "2012"
+  },
+  {
+    "toy_num": "X1662",
+    "col_num": "002",
+    "model": "Cadillac Sixteen Concept",
+    "series": "Street Power",
+    "series_num": "",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/2013_X1662_Cadillac_Sixteen.jpg/revision/latest?cb=20130505173337",
+    "year": "2013"
+  },
+  {
+    "toy_num": "X1663",
+    "col_num": "003",
+    "model": "'70 Dodge Charger R/T",
+    "series": "Street Power",
+    "series_num": "",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/T-2013_003.jpg/revision/latest?cb=20130601125359",
+    "year": "2013"
+  },
+  {
+    "toy_num": "X1664",
+    "col_num": "004",
+    "model": "Porsche Carrera GT",
+    "series": "Street Power",
+    "series_num": "",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Porsche_Carrera_GT_red_2013_HW_City_Street_Power.JPG/revision/latest?cb=20121023020506",
+    "year": "2013"
+  },
+  {
+    "toy_num": "BFC27",
+    "col_num": "001",
+    "model": "Repo Duty",
+    "series": "City Works",
+    "series_num": "1/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HW-2014-01-Repo_Duty-CityWorks.jpg/revision/latest?cb=20140202015442",
+    "year": "2014"
+  },
+  {
+    "toy_num": "BFC28",
+    "col_num": "002",
+    "model": "Back Slider",
+    "series": "City Works",
+    "series_num": "2/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/HW-3014-02-Back_Slider-CityWorks.jpg/revision/latest?cb=20140509020609",
+    "year": "2014"
+  },
+  {
+    "toy_num": "BFC29",
+    "col_num": "003",
+    "model": "Surfin' School Bus",
+    "series": "City Works",
+    "series_num": "3/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/5/59/Surfin%27_School_Bus-2014_003.jpg/revision/latest?cb=20140412093144",
+    "year": "2014"
+  },
+  {
+    "toy_num": "CFH27",
+    "col_num": "001",
+    "model": "Speed Dozer",
+    "series": "City Works",
+    "series_num": "1/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/HW-2015-001-Speed_Dozer-CityWorks.jpg/revision/latest?cb=20150227021259",
+    "year": "2015"
+  },
+  {
+    "toy_num": "CFH75",
+    "col_num": "055",
+    "model": "Super Van",
+    "series": "HW Rescue",
+    "series_num": "10/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/%2770s_Van-2015_055.jpg/revision/latest?cb=20150104102218",
+    "year": "2015"
+  },
+  {
+    "toy_num": "CFH35",
+    "col_num": "011",
+    "model": "'10 Ford Shelby GT500",
+    "series": "Performance",
+    "series_num": "1/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/3/34/%2710_Ford_Shelby_GT500-2015_011.jpg/revision/latest?cb=20150108145843",
+    "year": "2015"
+  },
+  {
+    "toy_num": "DHP67",
+    "col_num": "039",
+    "model": "Nitro Tailgater",
+    "series": "Super Chromes",
+    "series_num": "4/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/5/50/NitroTailgaterDHP67.jpg/revision/latest?cb=20151121023638",
+    "year": "2016"
+  },
+  {
+    "toy_num": "DHP72",
+    "col_num": "046",
+    "model": "Twinduction",
+    "series": "HW Glow Wheels",
+    "series_num": "1/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/TwinductionDHP72.jpg/revision/latest?cb=20151106032512",
+    "year": "2016"
+  },
+  {
+    "toy_num": "DHP43",
+    "col_num": "011",
+    "model": "Stockar",
+    "series": "X-Raycers",
+    "series_num": "1/10​",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/HW-2016-11-Stockar-XRaycers.jpg/revision/latest?cb=20151207041013",
+    "year": "2016"
+  },
+  {
+    "toy_num": "DTY55",
+    "col_num": "046",
+    "model": "Howlin' Heat",
+    "series": "Street Beasts",
+    "series_num": "9/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/HW_Howlin%27-Heat_Blue_2017_RF_DSCF9444.jpg/revision/latest?cb=20161224003631",
+    "year": "2017"
+  },
+  {
+    "toy_num": "DTX72",
+    "col_num": "010",
+    "model": "'17 Ford F-150 Raptor",
+    "series": "HW Hot Trucks",
+    "series_num": "4/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Raptor_Red_Frontside.jpg/revision/latest?cb=20181017151120",
+    "year": "2017"
+  },
+  {
+    "toy_num": "DTY84",
+    "col_num": "068",
+    "model": "Porsche 934 Turbo RSR",
+    "series": "Nightburnerz",
+    "series_num": "10/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Porsche_934_Turbo_RSR-2017_068.jpg/revision/latest?cb=20161224155331",
+    "year": "2017"
+  },
+  {
+    "toy_num": "FJW06",
+    "col_num": "002",
+    "model": "Volkswagen Käfer Racer",
+    "series": "Legends of Speed",
+    "series_num": "2/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Volkswagen_K%C3%A4fer_Racer_-_Blue_Loose.jpg/revision/latest?cb=20180513231115",
+    "year": "2018"
+  },
+  {
+    "toy_num": "FJW58",
+    "col_num": "010",
+    "model": "Ram 1500",
+    "series": "HW Hot Trucks ",
+    "series_num": "5/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Ram_1500_%284125%29_HW_L1170877.JPG/revision/latest?cb=20180722165425",
+    "year": "2018"
+  },
+  {
+    "toy_num": "FJW47",
+    "col_num": "028",
+    "model": "'70 Camaro",
+    "series": "HW Speed Graphics",
+    "series_num": "7/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/70%27_Camaro_%283737%29_HW_L1160687.JPG/revision/latest?cb=20180318070418",
+    "year": "2018"
+  },
+  {
+    "toy_num": "FYF11",
+    "col_num": "029",
+    "model": "'72 Ford Ranchero",
+    "series": "HW Hot Trucks",
+    "series_num": "8/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/72_Ranchero_Green_19.jpg/revision/latest?cb=20190802085614",
+    "year": "2019"
+  },
+  {
+    "toy_num": "FYD17",
+    "col_num": "006",
+    "model": "Nissan Skyline GT-R (BCNR33)",
+    "series": "Nissan",
+    "series_num": "1/5",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Nissan_skyline_gt-r_bcnr33.JPG/revision/latest?cb=20181016164237",
+    "year": "2019"
+  },
+  {
+    "toy_num": "FYD04",
+    "col_num": "027",
+    "model": "'95 Mazda RX-7",
+    "series": "HW Speed Graphics",
+    "series_num": "10/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/95_RX7_Black_19.jpg/revision/latest?cb=20181125002946",
+    "year": "2019"
+  },
+  {
+    "toy_num": "GHD03",
+    "col_num": "002",
+    "model": "Nissan Skyline GT-R (BNR32)",
+    "series": "HW Turbo",
+    "series_num": "5/5",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/2020-BNR32.JPG/revision/latest?cb=20191013045917",
+    "year": "2020"
+  },
+  {
+    "toy_num": "GHB91",
+    "col_num": "003",
+    "model": "Land Rover Series III Pickup",
+    "series": "Baja Blazers",
+    "series_num": "10/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Series_3_Pickup_Green_20.jpg/revision/latest?cb=20191101083422",
+    "year": "2020"
+  },
+  {
+    "toy_num": "GHC43",
+    "col_num": "031",
+    "model": "HW Armored Truck",
+    "series": "HW Metro",
+    "series_num": "4/10",
+    "photo_url": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HWArmoredTruck-2020-chrome.jpg/revision/latest?cb=20191215083051",
+    "year": "2020"
+  }
+]
