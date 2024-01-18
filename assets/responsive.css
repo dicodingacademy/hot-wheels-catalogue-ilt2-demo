@@ -53,6 +53,10 @@
     transform: translateX(0);
   }
 
+  .nav-content .nav-list a {
+    color: #000000;
+  }
+
   .main-footer {
     flex-direction: column;
 
