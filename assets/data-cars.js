@@ -1,4 +1,4 @@
-const allCars = [
+let allCars = [
   {
     id: 98765,
     model: "'67 Shelby GT500",
